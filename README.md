@@ -14,8 +14,9 @@ QS_DigitalTimes是QHFZSDXX民间平台，记录该学校的各种事件，也可
 6.严禁讨论黄色和宗教问题，想看自己出国看，没人拦你。  
 # 这是我第一次做这种公共平台，若有失误，请多包容！  
 ## 文章直达链接  
-[第一次针对食堂的抗议]:  http://dt.qhfzsd.cn/5.9.html  
-[5.16食堂供餐问题]: http://dt.qhfzsd.cn/24.5.16.html  
+[第一次针对食堂的抗议]: http://dt.qhfzsd.cn/5.9.html  
+[5.16食堂供餐问题]: http://dt.qhfzsd.cn/24.5.16.html
+
    
 
 
